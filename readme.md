@@ -6,7 +6,12 @@ This allows you to control Philips Wiz Light bulbs using the Elgato Stream Deck,
 - [Zayik's CommandSender add-on for Stream Deck](https://github.com/Zayik/CommandSender/releases/tag/v1.1.0)
 - [My custom Stream Deck Profile](https://github.com/darkelement1987/WizDeck/raw/main/Wiz%20Light%20Control.streamDeckProfile)
 
-Check settings for all buttons and adjust ip-addresses and commands/argument to whatever you need.
+## Install
+
+- Download add-on
+- Download profile
+- Double click the profile file and it should load in the Stream Deck application in Windows
+- Check settings for each buttons and adjust ip-addresses and commands to whatever you want.
 
 ## Features:
 
