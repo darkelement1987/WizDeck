@@ -13,7 +13,7 @@ This allows you to control Philips Wiz Light bulbs using the Elgato Stream Deck,
 - Download add-on
 - Download profile
 - Double click the profile file and it should load in the Stream Deck application in Windows
-- Check settings for each buttons and adjust ip-addresses and commands to whatever you want.
+- Check settings for each buttons and adjust ip-addresses and commands to whatever you want, you can use a single ip-address or multiple by using ; for separator (e.g. 192.168.2.2;192.168.2.3)
 
 ## Features:
 
