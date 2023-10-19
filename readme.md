@@ -4,3 +4,7 @@
 - [My custom Stream Deck Profile](https://github.com/darkelement1987/WizDeck/raw/main/Wiz%20Light%20Control.streamDeckProfile)
 
 Check settings for all buttons and adjust ip-addresses and commands/argument to whatever you need.
+
+## Requirements:
+
+Color lights, dim lights, set lights speed using preset/adjustable values, party mode, on/off switch for all and more..
