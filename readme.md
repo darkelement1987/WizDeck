@@ -1,3 +1,6 @@
+## About
+This allows you to control Philips Wiz Light bulbs using the Elgato Stream Deck, everything is adjustable.
+
 ## Requirements:
 
 - [Zayik's CommandSender add-on for Stream Deck](https://github.com/Zayik/CommandSender/releases/tag/v1.1.0)
@@ -8,3 +11,7 @@ Check settings for all buttons and adjust ip-addresses and commands/argument to 
 ## Features:
 
 Color lights, dim lights, set lights speed using preset/adjustable values, party mode, on/off switch for all and more..
+
+## Resources
+
+https://github.com/sbidy/pywizlight
