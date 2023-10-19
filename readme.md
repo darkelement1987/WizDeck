@@ -23,6 +23,6 @@ Color lights, dim lights, set lights speed using preset/adjustable values, party
 
 ## Resources
 
-https://github.com/sbidy/pywizlight
-https://seanmcnally.net/wiz-config.html
-https://aleksandr.rogozin.us/blog/2021/8/13/hacking-philips-wiz-lights-via-command-line
+- https://github.com/sbidy/pywizlight
+- https://seanmcnally.net/wiz-config.html
+- https://aleksandr.rogozin.us/blog/2021/8/13/hacking-philips-wiz-lights-via-command-line
