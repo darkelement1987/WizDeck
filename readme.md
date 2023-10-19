@@ -7,8 +7,8 @@ This allows you to control Philips Wiz Light bulbs using the Elgato Stream Deck,
 
 - [Zayik's CommandSender add-on for Stream Deck](https://github.com/Zayik/CommandSender/releases/tag/v1.1.0)
 - [My custom Stream Deck Profile](https://github.com/darkelement1987/WizDeck/raw/main/Wiz%20Light%20Control.streamDeckProfile)
-- 'Figma Icon Pack 2023'-icon pack (available through official application)
-- 'Palette - The Simple Color pack'-icon pack (available through official application)
+- 'Figma Icon Pack 2023'-icon pack for Stream Deck (available through official application)
+- 'Palette - The Simple Color pack'-icon pack for Stream Deck (available through official application)
 
 ## Install
 
