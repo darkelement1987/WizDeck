@@ -5,6 +5,6 @@
 
 Check settings for all buttons and adjust ip-addresses and commands/argument to whatever you need.
 
-## Requirements:
+## Features:
 
 Color lights, dim lights, set lights speed using preset/adjustable values, party mode, on/off switch for all and more..
